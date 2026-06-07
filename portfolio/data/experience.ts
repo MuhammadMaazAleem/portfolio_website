@@ -1,14 +1,14 @@
 export const experience = [
   {
     id: 1,
-    role: "Software Engineering Student",
+    role: "Computer Science Student",
     organization: "Air University, Islamabad",
     duration: "2023 – Present",
     side: "left",
     details: [
-      "Bachelor's in Software Engineering — currently 4th Semester",
+      "Bachelor's in Computer Science — currently 5th Semester",
       "Built full-stack and academic projects across web & systems",
-      "Coursework: Software Design, Networks, Databases, Web Engineering",
+      "Coursework: Data Structures, Algorithms, Networks, Databases, AI",
     ],
   },
   {

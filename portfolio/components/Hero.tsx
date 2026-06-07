@@ -169,7 +169,7 @@ export default function Hero() {
               marginBottom: "48px",
             }}
           >
-            Full-stack engineer building production software. 5th year at Air University, Islamabad.
+            Full-stack engineer building production software. CS student in 5th semester at Air University, Islamabad.
             Co-founded a freelance software agency shipping real products to real clients.
           </motion.p>
 
